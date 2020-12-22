@@ -1,0 +1,14 @@
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\IPT_Assignment3.Test.exe.config
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\IPT_Assignment3.Test.exe
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\IPT_Assignment3.Test.pdb
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\IPT_Assignment3.Data.dll
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\EntityFramework.dll
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\IPT_Assignment3.Data.pdb
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\IPT_Assignment3.Data.dll.config
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\EntityFramework.xml
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\obj\Debug\IPT_Assignment3.Test.csprojAssemblyReference.cache
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\obj\Debug\IPT_Assignment3.Test.csproj.CopyComplete
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\obj\Debug\IPT_Assignment3.Test.exe
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\obj\Debug\IPT_Assignment3.Test.pdb
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nubaid\Uiversity\__Sem 6\IPT LAB\IPT_Assignment3\IPT_Assignment3.Test\bin\Debug\EntityFramework.SqlServer.xml
